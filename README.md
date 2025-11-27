@@ -104,5 +104,5 @@ O objetivo é criar um loop de jogo esteticamente agradável, minimalista, poré
 
 ---------------------------------------------
 
-### ©️ código por , 2025 :link: https://mattz-coder.github.io/jogo-uno/
+### ©️ código por , 2025 :link: https://github.com/Mattz-coder/UNODEF.git
 
